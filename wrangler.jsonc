@@ -10,7 +10,7 @@
   "kv_namespaces": [{ "binding": "OAUTH_KV" }],
   "vars": {
     // IANA time zone used for "today" and default date ranges, e.g. "Europe/London".
-    "TIMEZONE": "UTC"
+    "TIMEZONE": "America/New_York"
   },
   "observability": { "enabled": true }
   // Secrets (never put them here): GARMIN_API_KEY, LOGIN_PASSWORD. See README.
